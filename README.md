@@ -1,3 +1,4 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Ali Hassan</h1>
 <h3 align="center">🚀 Passionate Software Engineer & Full-Stack Developer | Building AI-Powered & Interactive Websites that Engage, Learn, and Evolve! 💡✨</h3>
 
