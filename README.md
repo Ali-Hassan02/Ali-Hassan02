@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Ali-Hassan02/Ali-Hassan02/blob/main/1634393374732.jpeg)
 <h1 align="center">Hi 👋, I'm Ali Hassan</h1>
 <h3 align="center">🚀 Passionate Software Engineer & Full-Stack Developer | Building AI-Powered & Interactive Websites that Engage, Learn, and Evolve! 💡✨</h3>
 
